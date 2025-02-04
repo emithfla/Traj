@@ -11,3 +11,4 @@ log/
 raw/
 
 
+models/GPT-2/pytorch_model.bin
