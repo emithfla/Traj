@@ -1,0 +1,110 @@
+
+
+2024-09-09 11:34:57
+./checkpoint/Social-dggan-bv2-eth/pretrain_best.pth
+
+
+2024-09-09 11:38:49
+./checkpoint/Social-dggan-bv2-eth/pretrain_best.pth
+
+
+2024-09-09 11:40:09
+./checkpoint/Social-dggan-bv2-eth/pretrain_best.pth
+eth
+ADE: 0.7569691243903197, FDE: 1.2751855469557376
+AAE: 0.1849973201751709
+AMD: 0.0, AMV: 0.0
+pre,Social-dggan-bv2,50,50,eth,0.76,1.28,0.18,0.00,0.000,eth,20
+
+
+2024-09-24 17:15:09   AGCN+GPT
+./checkpoint/Social-dggan-bv2-eth/pretrain_best.pth
+ADE: 0.7455791685101751, FDE: 1.496838564839918
+AAE: 0.18115970492362976
+AMD: 0.0, AMV: 0.0
+pre,Social-dggan-bv2,50,50,eth,0.75,1.50,0.18,0.00,0.000,eth,20
+
+
+GPT
+eth
+ADE: 0.6839313275870178, FDE: 1.335280354864703
+AAE: 0.17677807807922363
+AMD: 0.0, AMV: 0.0
+
+
+hotel
+ADE: 0.31611493423447573, FDE: 0.5464762857728472
+AAE: 0.20895522832870483
+AMD: 0.0, AMV: 0.0
+
+
+univ
+ADE: 0.4625243712025612, FDE: 0.919493848028683
+AAE: 0.2711409628391266
+AMD: 0.0, AMV: 0.0
+
+
+zara1
+ADE: 0.2999500182147993, FDE: 0.5358306999524226
+AAE: 0.07250126451253891
+AMD: 0.0, AMV: 0.0
+
+
+zara2
+ADE: 0.2624787925037252, FDE: 0.46581525578509136
+AAE: 0.3331184387207031
+AMD: 0.0, AMV: 0.0
+
+
+AGCN +  GPT    epoch 50 batch_size 64 lr 0.001
+ETH
+0.78,1.56
+
+HOTEL
+0.39,0.72
+
+Univ
+0.45,0.90
+
+zara1
+0.31,0.57
+
+zara2
+0.27,0.45
+
+
+
+AGCN +  GPT  epoch 100 batch_size 32 lr 0.0001
+ETH
+0.69,1.36
+
+AGCN +  GPT  epoch 100 batch_size 32 lr 0.00001
+ETH
+0.63,1.17
+
+Hotel
+0.42,0.72
+
+
+univ
+0.46,0.87
+
+zara1
+0.57,1.03
+
+zara2
+0.28,0.45
+
+
+STGCNN+ GPT
+ETH
+0.68,1.20
+
+2025-02-02 23:01:06
+./checkpoint/GNN-LLM-eth/pretrain_best.pth
+eth
+ADE: 0.39666266647969783, FDE: 0.6697419040020066
+AAE: 0.06133190542459488
+AMD: 0.0, AMV: 0.0
+pre,GNN-LLM,50,20,eth,0.40,0.67,0.06,0.00,0.000,eth,20
+

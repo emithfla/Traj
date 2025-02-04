@@ -1,0 +1,44 @@
+
+
+2024-12-02 15:41:38
+./checkpoint/Social-dggan-bv2-univ/pretrain_best.pth
+
+
+2025-02-02 14:09:58
+./checkpoint/GNN-LLM-univ/pretrain_best.pth
+univ
+ADE: 0.4768776368803436, FDE: 0.8130244671760792
+AAE: 0.32691240310668945
+AMD: 0.0, AMV: 0.0
+pre,GNN-LLM,50,20,univ,0.48,0.81,0.33,0.00,0.000,univ,20
+
+
+
+2025-02-02 16:21:16
+./checkpoint/GNN-LLM-univ/pretrain_best.pth
+univ
+ADE: 0.6235694143804307, FDE: 1.1948040936673308
+AAE: 0.3925819396972656
+AMD: 0.0, AMV: 0.0
+pre,GNN-LLM,50,20,univ,0.62,1.19,0.39,0.00,0.000,univ,20
+
+
+
+2025-02-02 16:52:26
+./checkpoint/GNN-LLM-univ/pretrain_best.pth
+univ
+ADE: 0.5475297710209719, FDE: 1.0877650799079592
+AAE: 0.37535443902015686
+AMD: 0.0, AMV: 0.0
+pre,GNN-LLM,50,20,univ,0.55,1.09,0.38,0.00,0.000,univ,20
+
+
+
+2025-02-02 22:54:47
+./checkpoint/GNN-LLM-univ/pretrain_best.pth
+univ
+ADE: 0.42400200204654315, FDE: 0.7975310286554859
+AAE: 0.25304922461509705
+AMD: 0.0, AMV: 0.0
+pre,GNN-LLM,50,20,univ,0.42,0.80,0.25,0.00,0.000,univ,20
+

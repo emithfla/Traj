@@ -1,0 +1,32 @@
+
+
+2024-09-09 15:20:46
+./checkpoint/Social-dggan-bv2-hotel/pretrain_best.pth
+
+
+2024-09-09 15:21:34
+./checkpoint/Social-dggan-bv2-hotel/pretrain_best.pth
+
+
+2024-09-09 15:39:04
+./checkpoint/Social-dggan-bv2-hotel/pretrain_best.pth
+
+
+2025-02-02 13:58:39
+./checkpoint/GNN-LLM-hotel/pretrain_best.pth
+hotel
+ADE: 0.27635276235795225, FDE: 0.4441151089916472
+AAE: 0.3309400975704193
+AMD: 0.0, AMV: 0.0
+pre,GNN-LLM,50,20,hotel,0.28,0.44,0.33,0.00,0.000,hotel,20
+
+
+
+2025-02-02 22:50:22
+./checkpoint/GNN-LLM-hotel/pretrain_best.pth
+hotel
+ADE: 0.3001417532191723, FDE: 0.5028358456578819
+AAE: 0.3236127197742462
+AMD: 0.0, AMV: 0.0
+pre,GNN-LLM,50,20,hotel,0.30,0.50,0.32,0.00,0.000,hotel,20
+

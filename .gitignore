@@ -1,0 +1,13 @@
+__pychache__/
+
+caches/
+checkpoint/
+data_caches/
+datasets/
+datasets_new/
+datasets_plus/
+gif/
+log/
+raw/
+
+
